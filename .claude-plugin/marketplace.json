@@ -1,0 +1,14 @@
+{
+  "name": "krandres27-skills",
+  "description": "Personal Claude Code skills shared across machines.",
+  "owner": {
+    "name": "Carlos Gonzalez"
+  },
+  "plugins": [
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "Git workflow skills"
+    }
+  ]
+}
